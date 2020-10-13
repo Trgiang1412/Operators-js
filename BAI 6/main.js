@@ -1,0 +1,10 @@
+var chieudai;
+chieudai = prompt("nhap chieu dai :");
+var chieurong;
+chieurong = prompt("nhap chieu rong ;");
+var chuvi;
+chuvi = (chieudai + chieurong) * 2;
+console.log(chuvi);
+var dientich;
+dientich = (chieudai * chieurong) / 2;
+console.log(dientich);
